@@ -13,6 +13,7 @@ public class HelloWorld {
         List<Integer> integerList = new ArrayList<>(List.of(12, 42, 23, 545));
         Collections.sort(integerList);
         integerList.forEach(System.out::println);
+        System.out.println("Bye");
     }
 
 
