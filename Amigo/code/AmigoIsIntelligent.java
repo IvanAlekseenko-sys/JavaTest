@@ -4,6 +4,7 @@ public class AmigoIsIntelligent {
         System.out.println("really?");
         System.out.println("yes");
         System.out.println("ok");
+        System.out.println(123);
     }
 }
 
